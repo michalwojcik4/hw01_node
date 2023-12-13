@@ -12,10 +12,10 @@ This is a command-line interface (CLI) application for managing contacts. It all
 
 The application supports the following commands:
 
-- `list`: Displays the list of contacts.
-- `get --id <contactId>`: Retrieves a contact by its ID.
-- `add --name <name> --email <email> --phone <phone>`: Adds a new contact.
-- `remove --id <contactId>`: Removes a contact by its ID.
+- `list`: Displays the list of contacts. [Screenshot](https://ibb.co/syX2S1J)
+- `get --id <contactId>`: Retrieves a contact by its ID. [Screenshot](https://ibb.co/CKddZyx)
+- `add --name <name> --email <email> --phone <phone>`: Adds a new contact. [Screenshot](https://ibb.co/S55M3kC)
+- `remove --id <contactId>`: Removes a contact by its ID. [Screenshot](https://ibb.co/KXrNrN0)
 
 Example usage:
 
