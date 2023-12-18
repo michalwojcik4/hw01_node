@@ -1,11 +1,11 @@
-const {
+import {
   listContacts,
   getContactById,
   removeContact,
   addContact,
-} = require("./contacts.js");
+} from "./contacts.js";
 
-const { Command } = require("commander");
+import { Command } from "commander";
 const program = new Command();
 
 program
